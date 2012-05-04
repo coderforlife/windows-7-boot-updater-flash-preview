@@ -7,3 +7,9 @@ bin-release/
 .flexProperties
 .settings/
 .project
+
+# Generated Files
+*Report.txt
+*.html
+*.swz
+*.swf
